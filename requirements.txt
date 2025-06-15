@@ -1,0 +1,9 @@
+transformers
+torch
+torchvision
+pandas
+scikit-learn
+matplotlib
+timm
+textblob
+streamlit
